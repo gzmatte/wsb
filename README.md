@@ -6,10 +6,9 @@
 - W7/apb/fox/kernel8.1
 
 # Credits
-KernelPanic
-Matishzz
-CatGamerOP
-Others
+- KernelPanic
+- Matishzz
+- CatGamerOP
+- imribiy
 
-**THIS BAT IS PRIVATE**
 
