@@ -1,7 +1,7 @@
 # WSB
 **Automatic Windows 7 Tweaking bat**
 
-# DOWNLOAD
+# Download
 Release
 https://github.com/gzmatte/wsb/releases/tag/1
 
@@ -15,5 +15,3 @@ https://github.com/gzmatte/wsb/releases/tag/1
 - Matishzz
 - CatGamerOP
 - imribiy
-
-
