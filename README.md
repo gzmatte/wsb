@@ -1,7 +1,19 @@
 # WSB - Windows Seven Bat
-**Automatic Windows7 Tweaking bat**
-Recommended for apbOS/EagleOS/FoxOS & Kernel 8.1
+**Automatic Windows 7 Tweaking bat**
 
-I do this for EagleOS.
+# Recommended OS
+
+W7
+apbOS
+EagleOS
+FoxOS
+Kernel w8.1
+
+# Credits
+KernelPanic
+Matishzz
+CatGamerOP
+Others
 
 **THIS BAT IS PRIVATE**
+
