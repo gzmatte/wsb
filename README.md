@@ -1,4 +1,4 @@
-# WSB - Windows Seven Bat
+# WSB
 **Automatic Windows 7 Tweaking bat**
 
 # Recommended OS
