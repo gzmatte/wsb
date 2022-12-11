@@ -2,12 +2,8 @@
 **Automatic Windows 7 Tweaking bat**
 
 # Recommended OS
-
-W7
-apbOS
-EagleOS
-FoxOS
-Kernel w8.1
+- Eagle OS
+- W7/apb/fox/kernel8.1
 
 # Credits
 KernelPanic
