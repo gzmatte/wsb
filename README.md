@@ -7,7 +7,7 @@
 
 
 # Recommended OS
-- Eagle OS
+- Eagle OS 0.8
 - W7/apb/fox/kernel8.1
 
 # Credits
