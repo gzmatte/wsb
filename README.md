@@ -1,4 +1,4 @@
-# WSB
+# WSB - Windows Seven Bat
 - **Automatic Windows 7 Tweaking**
 
 # Download
