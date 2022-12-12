@@ -1,8 +1,8 @@
 # WSB
-**Automatic Windows 7 Tweaking**
+- **Automatic Windows 7 Tweaking**
 
 # Download
-Release
+- Release
 **https://github.com/gzmatte/wsb/releases/tag/1**
 
 
