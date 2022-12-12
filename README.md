@@ -1,9 +1,9 @@
 # WSB
-**Automatic Windows 7 Tweaking bat**
+**Automatic Windows 7 Tweaking**
 
 # Download
 Release
-https://github.com/gzmatte/wsb/releases/tag/1
+**https://github.com/gzmatte/wsb/releases/tag/1**
 
 
 # Recommended OS
