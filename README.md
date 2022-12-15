@@ -38,3 +38,6 @@
 - Matishzz - Nvidia Tweaks ; OBS.
 - CatGamerOP - Advanced Nvidia Tweaks; Advanced Tweaking bat things.
 - imribiy - nip.
+- Pablerso - Drivers AMD ; STR.
+- Razer Synapse Debloater - ?
+- I ADD MORE CREDITS & ADD THE CREDITS IN EACH SECTION WHEN I UPDATE THIS BAT.
