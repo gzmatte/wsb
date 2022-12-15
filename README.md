@@ -31,7 +31,7 @@
 
 # Recommended OS
 - Eagle OS 0.8 : The bat was created for this OS.
-- W7/apb/fox/kernel8.1
+- W7/apbOS/foxOS/kernelOS8.1
 
 # Credits
 - KernelPanic
