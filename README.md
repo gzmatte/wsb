@@ -34,7 +34,7 @@
 - W7/apbOS/foxOS/kernelOS8.1
 
 # Credits
-- KernelPanic
-- Matishzz
-- CatGamerOP
-- imribiy
+- KernelPanic - Discord Debloater
+- Matishzz - Nvidia Tweaks ; OBS.
+- CatGamerOP - Advanced Nvidia Tweaks; Advanced Tweaking bat things.
+- imribiy - nip.
