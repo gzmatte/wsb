@@ -1,5 +1,5 @@
 # WSB - Windows Seven Bat
-- **Automatic Windows 7 Tweaking**
+- **"Automatic" Windows 7 "Tweaking"**
 
 # Download
 - Release
